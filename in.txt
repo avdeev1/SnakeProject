@@ -1,0 +1,10 @@
+record	14
+alex	10
+sam	5
+Joe	1
+player1	0
+player2	0
+	0
+
+	0
+6		0
